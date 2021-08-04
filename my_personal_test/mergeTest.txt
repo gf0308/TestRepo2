@@ -1,0 +1,9 @@
+// 테스트 용 함수문
+function a(x, y){
+    console.log(x);
+    console.log(y);
+    console.log(x+y);
+    return x+y;
+}
+
+
