@@ -7,6 +7,8 @@ function a(x, y){
     console.log('----master----');
     return x+y;
 	// branch 'master'에서 작성함
+	// branch 'submaster'에서 주석 작성
+	// branch 'master'에서 2번째로 작성함
 }
 
 
