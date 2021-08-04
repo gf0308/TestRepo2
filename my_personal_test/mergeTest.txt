@@ -6,6 +6,7 @@ function a(x, y){
     console.log(x+y)
     console.log('----master----');
     return x+y;
+	// branch 'master'에서 작성함
 }
 
 
